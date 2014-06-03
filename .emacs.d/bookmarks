@@ -1,0 +1,35 @@
+;;;; Emacs Bookmark Format Version 1 ;;;;
+;;; This format is meant to be slightly human-readable;
+;;; nevertheless, you probably don't want to edit it.
+;;; -*- End Of Bookmark File Format Version Stamp -*-
+(("gen-group-page"
+ (filename . "~/MyWork/sitecompiler/src/sitecompiler/core.clj")
+ (front-context-string . "(defn- gen-group")
+ (rear-context-string . " num \".html\"))\n\n")
+ (position . 1875))
+("until"
+ (filename . "~/scala/patmat/src/main/scala/patmat/Huffman.scala")
+ (front-context-string . "(xxx: ???, yyy: ")
+ (rear-context-string . "  */\n  def until")
+ (position . 5572))
+("combine"
+ (filename . "~/scala/patmat/src/main/scala/patmat/Huffman.scala")
+ (front-context-string . "(trees: List[Cod")
+ (rear-context-string . "*/\n  def combine")
+ (position . 4337))
+("makeOrderedLeafList"
+ (filename . "~/scala/patmat/src/main/scala/patmat/Huffman.scala")
+ (front-context-string . "(freqs: List[(Ch")
+ (rear-context-string . "eOrderedLeafList")
+ (position . 3066))
+("times"
+ (filename . "~/scala/patmat/src/main/scala/patmat/Huffman.scala")
+ (front-context-string . "\n  \n  def times0")
+ (rear-context-string . "(chars, List())\n")
+ (position . 2478))
+("weight"
+ (filename . "~/scala/patmat/src/main/scala/patmat/Huffman.scala")
+ (front-context-string . "  def weight(tre")
+ (rear-context-string . "Part 1: Basics\n\n")
+ (position . 775))
+)
